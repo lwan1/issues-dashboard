@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "github",
+      "type": "com.example.demo.GithubProperties",
+      "sourceType": "com.example.demo.GithubProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "github.token",
+      "type": "java.lang.String",
+      "description": "Github private access token \"user:token\"",
+      "sourceType": "com.example.demo.GithubProperties"
+    }
+  ],
+  "hints": []
+}
